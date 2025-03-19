@@ -1,2 +1,2 @@
-# ccoursera-cloud-computing
+# Coursera-cloud-computing
 Repo for coursera course
